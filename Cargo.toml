@@ -1,0 +1,12 @@
+[package]
+name = "windows"
+version = "0.0.1"
+authors = ["Diana"]
+edition = "2018"
+repository = "https://github.com/DianaNites/Windows"
+homepage = "https://github.com/DianaNites/Windows"
+readme = "README.md"
+description = "Contact for ownership"
+license = "MIT"
+
+[dependencies]
